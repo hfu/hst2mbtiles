@@ -1,0 +1,23 @@
+{
+  "name": "hst2mbtiles",
+  "version": "1.0.0",
+  "description": "A command to create mbtiles from stdin stream of headless serialtiles",
+  "main": "hst2mbtiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/hst2mbtiles.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/hst2mbtiles/issues"
+  },
+  "homepage": "https://github.com/hfu/hst2mbtiles#readme",
+  "dependencies": {
+    "@mapbox/mbtiles": "^0.10.0"
+  }
+}
